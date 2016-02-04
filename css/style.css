@@ -459,6 +459,11 @@
 			width: 3.25em;
 		}
 
+			.icon.rounded.medium {
+				font-size: 1.75em;
+				margin-bottom: 0.5em;
+			}
+
 			.icon.rounded.big {
 				font-size: 2.5em;
 				margin-bottom: 0.5em;
@@ -509,7 +514,9 @@
 			.icon.rounded.color10 {
 				background-color: #61d43c;
 			}
-
+			.icon.rounded.color11 {
+				background-color: #e0e0e0;
+			}
 			.icon.rounded.fa-twitter {
 				background-color: #2daae4;
 			}
@@ -1097,6 +1104,13 @@
 			margin-bottom: 2em;
 			text-align: left;
 		}
+
+            .wrapper.style2 .profile i {
+                float: left;
+                margin-bottom: 1em;
+				margin-right: 1em;
+                color: #bcbcbc;
+            }
 
 			.wrapper.style2 .profile img {
 				border-radius: 50%;
